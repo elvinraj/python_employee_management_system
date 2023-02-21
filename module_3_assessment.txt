@@ -1,0 +1,5 @@
+Develop a working Employee Management System using the OOPs paradigm. 
+1. It should showcase Inheritance, Encapsulation, and  Abstraction. 
+2. Features - add and display employees. (minimum)
+3. Use a packaging approach for coding ie use .py files with only a single class in one file (don't use .ipynb files)
+4. Upload the project to github and share github link here.
